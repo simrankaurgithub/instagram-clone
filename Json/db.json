@@ -1,0 +1,71 @@
+{
+  "stories": [
+    {
+      "user": "selena",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    },
+    {
+      "user": "priyanka",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    },
+    {
+      "user": "urvashi",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    },
+    {
+      "user": "kareena",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    },
+    {
+      "user": "katrina",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    },
+    {
+      "user": "ritesh",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    },
+    {
+      "user": "kartik",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    },
+    {
+      "user": "dipika",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    },
+    {
+      "user": "selena",
+      "profilePic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:*"
+    }
+  ],
+  "users": [
+    {
+      "email_or_phone": "simran@gmail.com",
+      "fullName": "",
+      "username": "simr35478",
+      "password": "simr35478",
+      "full_name": "simran",
+      "id": 1
+    },
+    {
+      "email_or_phone": "cdcddddvfjgnggdf@hj.ergh",
+      "fullName": "jsdjdskjdskdj12345y@#$z5",
+      "username": "dfdskfjhkj",
+      "password": "ddjnmbvhjfnb",
+      "id": 2
+    },
+    {
+      "email_or_phone": "cdcddddvfjgnggdf@hj.ergh",
+      "fullName": "jsdjdskjdskdj12345y@#$z5",
+      "username": "dfdskfjhkj",
+      "password": "ddjnmbvhjfnb",
+      "id": 3
+    },
+    {
+      "email_or_phone": "cdcddddvfjgnggdf@hj.ergh",
+      "fullName": "jsdjdskjdskdj12345y@#$z5",
+      "username": "dfdskfjhkj",
+      "password": "ddjnmbvhjfnb",
+      "id": 4
+    }
+  ]
+}

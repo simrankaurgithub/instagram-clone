@@ -1,0 +1,12 @@
+export { default as Home } from './Home';
+export { default as Login } from './Login';
+export { default as Create } from './Create';
+export { default as Explore } from './Explore';
+export { default as Dashboard } from './Dashboard';
+export { default as Messages } from './Messages';
+export { default as More } from './More';
+export { default as Notifications } from './Notifications';
+export { default as Profile } from './Profile';
+export { default as Reels } from './Reels';
+export { default as Search } from './Search';
+export { default as SignUp } from './SignUp';

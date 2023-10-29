@@ -1,0 +1,13 @@
+export { default as Comment } from './Comment';
+export { default as CreateIcon } from './CreateIcon';
+export { default as Emoji } from './Emoji';
+export { default as ExploreIcon } from './ExploreIcon';
+export { default as HomeIcon } from './HomeIcon';
+export { default as MessagesIcon } from './MessagesIcon';
+export { default as MoreIcon } from './MoreIcon';
+export { default as Notifications } from './Notifications';
+export { default as ProfileIcon } from './ProfileIcon';
+export { default as ReelsIcon } from './ReelsIcon';
+export { default as SavePost } from './SavePost';
+export { default as SearchIcon } from './SearchIcon';
+export { default as SharePost } from './SharePost';
